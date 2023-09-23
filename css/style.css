@@ -50,7 +50,6 @@ p, h1 {
 .profile-pic {
     max-width: 100%; 
     position: relative;
-    animation: slideInRight 4s forwards;
 }
 
 .profile-pic img {
@@ -63,16 +62,6 @@ p, h1 {
   border-radius: 50%;
   display: block;
 }
-
-@keyframes slideInRight {
-    0% {
-        transform: translateX(100%);
-    }
-    100% {
-        transform: translateX(0);
-    }
-}
-
 
 #topnavbar {
     background-color: #547125;
