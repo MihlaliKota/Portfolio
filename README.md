@@ -19,3 +19,7 @@ Learn about my educational background and the courses I've completed to enhance 
 ### Contact
 
 If you'd like to connect, discuss potential projects, or have any questions, don't hesitate to reach out to me.
+
+## Visit My Portfolio
+
+To view my portfolio and explore my work, visit [Mihlali Kota's Portfolio](https://mihlaliportfolio.netlify.app/).
