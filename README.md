@@ -22,4 +22,4 @@ If you'd like to connect, discuss potential projects, or have any questions, don
 
 ## Visit My Portfolio
 
-To view my portfolio and explore my work, visit [Mihlali Kota's Portfolio](https://mihlaliportfolio.netlify.app/).
+To view my portfolio and explore my work, please click on this [link](https://mihlaliportfolio.netlify.app/).
