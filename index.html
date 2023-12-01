@@ -247,21 +247,34 @@
   <section id="contact">
     <div class="contact-content">
       <h1><u>Contact Me</u></h1>
-      <p>
-        If you'd like to get in touch or discuss potential projects, feel free
-        to reach out to me:
-      </p>
-      <ul>
-        <li>
-          <a href="mailto:hlalikota@gmail.com">Email</a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/mihlali-kota" target="_blank">LinkedIn</a>
-        </li>
-        <li>
-          <a href="https://github.com/MihlaliKota" target="_blank">GitHub</a>
-        </li>
-      </ul>
+      <form action="https://formsubmit.co/hlalikota@gmail.com" method="post">
+
+        <p><label for="email">Email Address:</label></p>
+        <input type="email" name="email" id="email" placeholder="Email here please" required>
+
+        <br>
+        <br>
+
+        <p><label for="subject">Subject:</label></p>
+
+        <select name="subject" id="subject" required>
+          <option value="Interview Opportunity">Interview Opportunity</option>
+          <option value="Recruiter">Recruiter</option>
+          <option value="Website Feedback">Website Feedback</option>
+        </select>
+
+        <br>
+        <br>
+
+        <p><label for="about">About:</label></p>
+        <textarea name="about" id="" cols="30" rows="10" placeholder="Message here please (Optional)"></textarea>
+
+        <br>
+
+        <input type="submit" value="Submit">
+
+      </form>
+
     </div>
   </section>
 
