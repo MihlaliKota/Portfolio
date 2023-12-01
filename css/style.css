@@ -202,7 +202,7 @@ header {
 
 .project-card {
   display: inline-block;
-  width: calc(33.33% - 20px);
+  width: 50rem;
   margin: 10px;
   background-color: #648126;
   padding: 20px;
