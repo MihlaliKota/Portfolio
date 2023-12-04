@@ -261,3 +261,21 @@ header {
 .submit-button:hover {
   background-color: #648126;
 }
+
+
+.social-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.social-buttons .github,
+.social-buttons .linkedin {
+  width: 150px;
+  height: 150px;
+}
+
+.social-buttons img {
+  width: 100%;
+  height: 100%;
+}
