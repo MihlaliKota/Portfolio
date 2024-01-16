@@ -111,7 +111,8 @@ body {
 .cta-button,
 .cv-button {
   display: block;
-  width: 100%;
+  width: 50%;
+  margin: auto;
   padding: 10px 20px;
   background-color: #547125;
   color: white;
@@ -301,8 +302,8 @@ body {
 .contact-content label,
 .contact-content textarea {
   display: block;
-  margin: 10px 0;
-  width: 100%;
+  margin: 0 auto;
+  width: 50%;
 }
 
 .submit-button {
